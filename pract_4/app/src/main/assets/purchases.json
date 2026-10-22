@@ -1,0 +1,10 @@
+[
+  { "name": "Молоко", "quantity": "2 л", "note": "Жирность 2,5%", "bought": true },
+  { "name": "Хлеб бородинский", "quantity": "1 шт", "note": "", "bought": false },
+  { "name": "Яйца", "quantity": "10 шт", "note": "Категория С0", "bought": true },
+  { "name": "Сыр", "quantity": "300 г", "note": "Российский или гауда", "bought": false },
+  { "name": "Яблоки", "quantity": "1 кг", "note": "Зелёные", "bought": false },
+  { "name": "Гречка", "quantity": "2 пачки", "note": "", "bought": true },
+  { "name": "Кофе", "quantity": "1 банка", "note": "Молотый, для турки", "bought": false },
+  { "name": "Бумажные полотенца", "quantity": "1 упак.", "note": "", "bought": false }
+]
